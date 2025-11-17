@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="sync" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d2a5f" />
+      <stop offset="100%" stop-color="#0c142d" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="28" fill="url(#sync)" />
+  <rect x="60" y="80" width="110" height="160" rx="20" fill="rgba(255,255,255,0.12)" />
+  <rect x="230" y="80" width="110" height="160" rx="20" fill="rgba(255,255,255,0.12)" />
+  <path d="M170 140h60" stroke="#6bd0ff" stroke-width="6" stroke-linecap="round" />
+  <path d="M200 110v100" stroke="#6bd0ff" stroke-width="6" stroke-linecap="round" opacity="0.6" />
+  <circle cx="200" cy="140" r="12" fill="#6bd0ff" />
+  <circle cx="200" cy="200" r="12" fill="#7d8bff" />
+  <text x="200" y="40" text-anchor="middle" fill="#f4f6fb" font-family="Inter, sans-serif" font-size="22">
+    Cross-device sync
+  </text>
+</svg>
+

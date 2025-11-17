@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <defs>
+    <linearGradient id="hero-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c2150" />
+      <stop offset="100%" stop-color="#090d26" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c9dff" />
+      <stop offset="100%" stop-color="#5df0ff" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" rx="32" fill="url(#hero-bg)" />
+  <rect x="80" y="80" width="360" height="140" rx="24" fill="rgba(255,255,255,0.08)" />
+  <rect x="80" y="260" width="800" height="40" rx="20" fill="rgba(255,255,255,0.08)" />
+  <rect x="80" y="320" width="800" height="40" rx="20" fill="rgba(255,255,255,0.08)" />
+  <rect x="80" y="380" width="520" height="40" rx="20" fill="rgba(255,255,255,0.08)" />
+  <rect x="460" y="80" width="420" height="320" rx="28" fill="rgba(0,0,0,0.3)" stroke="rgba(255,255,255,0.08)" />
+  <path d="M520 130c48 60 120 60 168 0s120-60 168 0" stroke="url(#accent)" stroke-width="6" fill="none" stroke-linecap="round" />
+  <text x="110" y="150" fill="#f4f6fb" font-family="Inter, 'PingFang SC', sans-serif" font-size="40" font-weight="600">
+    Cloud Player UI
+  </text>
+  <text x="110" y="200" fill="#b4b9d4" font-family="Inter, 'PingFang SC', sans-serif" font-size="20">
+    Replace this image with your own dashboard mockup.
+  </text>
+</svg>
+
